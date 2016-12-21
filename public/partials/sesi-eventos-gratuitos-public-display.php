@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * Provide a public-facing view for the plugin
+ *
+ * This file is used to markup the public-facing aspects of the plugin.
+ *
+ * @link       elvisbmartins.com.br
+ * @since      1.0.0
+ *
+ * @package    Sesi_Eventos_Gratuitos
+ * @subpackage Sesi_Eventos_Gratuitos/public/partials
+ */
+?>
+
+<!-- This file should primarily consist of HTML with a little bit of PHP. -->

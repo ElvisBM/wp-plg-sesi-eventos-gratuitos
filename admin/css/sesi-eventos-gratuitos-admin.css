@@ -1,0 +1,33 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .btn-sesi{
+ 	position: absolute;
+    z-index: 9999;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 5px;
+    font-weight: 500;
+    padding: 10px 11px;
+ }
+
+ .buscando{
+    background: #fff;
+    color: #505050;
+    padding: 10px 4px;
+ }
+
+  .btn-sesi:hover{
+  	background: #0073aa;
+  	color: #fff;
+  }
+
+ #adminmenu {
+    clear: left;
+    margin: 40px 0 12px;
+    padding: 0;
+    list-style: none;
+}
